@@ -1,1 +1,1 @@
-"# js-kurs-kalkulator-inflacije" 
+Kalkulator-Inflacije (HTML, CSS i JavaScript)
