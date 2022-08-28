@@ -1,1 +1,1 @@
-# Kalkulator-Inflacije
+ Kalkulator-Inflacije (HTML,CSS i JavaScript)
